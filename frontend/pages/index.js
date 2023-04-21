@@ -310,8 +310,8 @@ export default function Home() {
   return (
     <div>
       <Head>
-        <title>LW3Punks</title>
-        <meta name="description" content="LW3Punks-Dapp" />
+        <title>Palmcivet Lottery</title>
+        <meta name="description" content="Palmcivet-Lottery" />
         <link rel="icon" href="/favicon.ico" />
       </Head>
       <div className={styles.main}>
